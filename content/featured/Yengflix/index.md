@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'Yengflix'
+title: 'Yengflix v2'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/halcyon-site'
+github: 'https://github.com/yengzzkie/yengflixv2'
 external: 'https://yengflix.netlify.app/'
 tech:
   - VS Code
   - HTML
   - CSS
+  - Styled Components
   - ReactJS
   - TMDB API
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+This is the v2 of movie streamer app I built with [Webpack]('https://webpack.js.org/') and can be found [here](https://yengflix-deprecated.netlify.app). I built this second version with ReactJS in attempt to clone Netflix and to deepen my understanding of React.

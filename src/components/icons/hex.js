@@ -1,16 +1,16 @@
 import React from 'react';
 
-const IconHex = () => (
-  <svg id="hex" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
-    <title>Hexagon</title>
+const IconCircle = () => (
+  <svg id="circle" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
+    <title>Circle</title>
     <g transform="translate(-8.000000, -2.000000)">
       <g transform="translate(11.000000, 5.000000)">
-        <polygon
+        <circle
+          cx="39" // X-coordinate of the center
+          cy="48" // Y-coordinate of the center
+          r="39" // Radius of the circle
           stroke="currentColor"
           strokeWidth="5"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          points="39 0 0 22 0 67 39 90 78 68 78 23"
           fill="currentColor"
         />
       </g>
@@ -18,4 +18,4 @@ const IconHex = () => (
   </svg>
 );
 
-export default IconHex;
+export default IconCircle;

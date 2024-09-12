@@ -13,4 +13,4 @@ tech:
   - Netlify
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+This application is a platform for streaming anime content, built with ReactJS. Key functionalities include browsing a wide range of anime titles and watching episodes. This project served as a practical exercise in my attempt to learn TailwindCSS. I am currently working on adding a backend for login and authentication so users can create their own personal watch list.
