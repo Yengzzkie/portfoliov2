@@ -132,7 +132,10 @@ const About = () => {
     'NodeJS',
     'ExpressJS',
     'MongoDB',
+    'PostgreSQL',
     'SQL',
+    'Prisma',
+    'Heroku',
   ];
 
   return (

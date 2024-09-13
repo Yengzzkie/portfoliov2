@@ -13,4 +13,4 @@ tech:
   - TMDB API
 ---
 
-This is the v2 of movie streamer app I built with [Webpack]('https://webpack.js.org/') and can be found [here](https://yengflix-deprecated.netlify.app). I built this second version with ReactJS in attempt to clone Netflix and to deepen my understanding of React.
+This is the v2 of movie streamer app I built with ReactJS. The prototype (v1) can be found [here](https://yengflix-deprecated.netlify.app) and was built with [Webpack]('https://webpack.js.org/'). I built this second version with ReactJS in attempt to clone Netflix and to deepen my understanding of React.
